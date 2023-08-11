@@ -3,76 +3,87 @@
 		{
 			"loop": false,
 			"offsets": [
-				-1,
+				-5,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Idle",
+			"name": "BF idle dance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-10
+				-43,
+				-8
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "SIng Left",
+			"name": "BF NOTE LEFT0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-30
+				-18,
+				-60
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sing Down",
+			"name": "BF NOTE DOWN0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-10
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Sing Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				30
+				2,
+				39
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Sing Up",
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nofriend",
+	"image": "characters/lemubf",
 	"position": [
-		140,
-		380
+		0,
+		410
 	],
-	"healthicon": "lime",
-	"flip_x": false,
+	"healthicon": "bf",
+	"flip_x": true,
 	"healthbar_colors": [
-		102,
-		255,
-		102
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		0,
-		60
+		60,
+		-40
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"sing_duration": 4,
+	"scale": 1.2
 }

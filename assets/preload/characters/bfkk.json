@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-256,
+				-130
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "bfkk idle"
+		},
+		{
+			"offsets": [
+				-257,
+				-131
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bfkk left"
+		},
+		{
+			"offsets": [
+				-257,
+				-129
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bfkk right"
+		},
+		{
+			"offsets": [
+				-251,
+				-125
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bfkk down"
+		},
+		{
+			"offsets": [
+				-257,
+				-129
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfkk up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfkk",
+	"position": [
+		-650,
+		110
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		90,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

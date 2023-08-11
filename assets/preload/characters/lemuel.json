@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lemuel idle"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lemuel left"
+		},
+		{
+			"offsets": [
+				17,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lemuel down"
+		},
+		{
+			"offsets": [
+				32,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lemuel right"
+		},
+		{
+			"offsets": [
+				13,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hum",
+			"indices": [],
+			"name": "lemuel hum"
+		},
+		{
+			"offsets": [
+				4,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lemuel right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemuel",
+	"position": [
+		250,
+		170
+	],
+	"healthicon": "lemu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		-150,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				37,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				10,
-				-14
+				88,
+				-31
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-24,
-				-77
+				68,
+				-85
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-78,
-				63
+				32,
+				20
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-62,
-				2
+				-75,
+				-30
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				8,
-				16
+				53,
+				6
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-38,
-				-21
+				75,
+				-45
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-53,
-				47
+				-16,
+				20
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,21 +90,32 @@
 		},
 		{
 			"offsets": [
-				2,
-				49
+				-68,
+				6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
 			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				23,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/Gun_Boyfriend",
 	"position": [
-		0,
-		290
+		80,
+		370
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -114,9 +125,9 @@
 		209
 	],
 	"camera_position": [
-		60,
-		-40
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1.1
+	"scale": 1.3
 }

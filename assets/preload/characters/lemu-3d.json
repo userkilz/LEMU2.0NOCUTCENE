@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "l3 left"
+		},
+		{
+			"offsets": [
+				17,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "l3 down"
+		},
+		{
+			"offsets": [
+				32,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "l3 right"
+		},
+		{
+			"offsets": [
+				4,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "l3 up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "talk",
+			"loop": false,
+			"name": "l3 talk"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "l3 idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/l3",
+	"position": [
+		250,
+		-200
+	],
+	"healthicon": "lemu3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		-150,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

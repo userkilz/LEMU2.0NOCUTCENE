@@ -3,76 +3,87 @@
 		{
 			"loop": false,
 			"offsets": [
-				-1,
+				-5,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Idle",
+			"name": "Angrylemu idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-10
+				-3,
+				2
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "SIng Left",
+			"name": "Angrylemu left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-30
+				-5,
+				3
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sing Down",
+			"name": "Angrylemu down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-10
+				-8,
+				3
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sing Right",
+			"name": "Angrylemu right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				30
+				-6,
+				-3
 			],
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Sing Up",
+			"fps": 15,
+			"name": "Angrylemu up",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				4
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "grr",
+			"loop": false,
+			"name": "Angrylemu grr"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nofriend",
+	"image": "characters/angrylemu",
 	"position": [
-		140,
-		380
-	],
-	"healthicon": "lime",
-	"flip_x": false,
-	"healthbar_colors": [
-		102,
-		255,
-		102
-	],
-	"camera_position": [
-		0,
+		200,
 		60
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"healthicon": "angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		-120,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.5
 }

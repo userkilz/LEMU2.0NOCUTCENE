@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-3
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lemusus left"
+		},
+		{
+			"offsets": [
+				-1,
+				-3
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lemusus up"
+		},
+		{
+			"offsets": [
+				-4,
+				-5
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lemusus right"
+		},
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lemusus down"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "idle",
+			"loop": false,
+			"name": "lemusus idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemusus",
+	"position": [
+		270,
+		370
+	],
+	"healthicon": "lemusus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		-40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

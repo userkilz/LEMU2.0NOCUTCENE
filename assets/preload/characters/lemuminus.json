@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-1,
+				-5,
 				0
 			],
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
+			"fps": 18,
+			"name": "lemuminus idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-10
+				12,
+				3
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "SIng Left",
+			"name": "lemuminus left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-30
+				-5,
+				4
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sing Down",
+			"name": "lemuminus down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-10
+				-18,
+				2
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sing Right",
+			"name": "lemuminus right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-60,
-				30
+				-16,
+				-4
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Sing Up",
+			"name": "lemuminus up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nofriend",
+	"image": "characters/lemuminus",
 	"position": [
-		140,
-		380
+		-40,
+		30
 	],
-	"healthicon": "lime",
+	"healthicon": "minuslemu",
 	"flip_x": false,
 	"healthbar_colors": [
-		102,
 		255,
-		102
+		16,
+		20
 	],
 	"camera_position": [
-		0,
-		60
+		-130,
+		-50
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"sing_duration": 4,
+	"scale": 1.5
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "lemu run run idle"
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": true,
+			"name": "lemu run up"
+		},
+		{
+			"offsets": [
+				-3,
+				2
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "lemu run left"
+		},
+		{
+			"offsets": [
+				-8,
+				3
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "lemu run right"
+		},
+		{
+			"offsets": [
+				-5,
+				6
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "lemu run down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemu run",
+	"position": [
+		-60,
+		60
+	],
+	"healthicon": "angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		-60,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

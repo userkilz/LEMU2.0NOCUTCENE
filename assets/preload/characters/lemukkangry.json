@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-354,
+				-188
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lemukk left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-363,
+				-196
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lemukk down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-366,
+				-204
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lemukk up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-367,
+				-201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lemukk Idle"
+		},
+		{
+			"offsets": [
+				-368,
+				-198
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lemukk right"
+		},
+		{
+			"offsets": [
+				-360,
+				-120
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "hey",
+			"loop": true,
+			"name": "lemukk hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lemukkangry",
+	"position": [
+		-260,
+		-50
+	],
+	"healthicon": "lemukk",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		110,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

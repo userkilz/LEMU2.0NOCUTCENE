@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lemu-bad left"
+		},
+		{
+			"offsets": [
+				17,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lemu-bad down"
+		},
+		{
+			"offsets": [
+				7,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lemu-bad right"
+		},
+		{
+			"offsets": [
+				-6,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lemu-bad up"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "lemu-bad idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bad/lemu-bad",
+	"position": [
+		-60,
+		110
+	],
+	"healthicon": "badlemu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		20
+	],
+	"camera_position": [
+		-150,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
