@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"sticklemu",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"b-defeat",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"lutbuts",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"termination",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lemu",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"lemu",
+		"bf",
+		"stick"
+	],
+	"storyName": "extra songs",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"low-se",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"lemuplay",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"normexs",
+			"lemu",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"angry",
+			"angry",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"crazy",
+			"angry",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lemu",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"lemu",
+		"bf",
+		"gf"
+	],
+	"storyName": "vs lemu ._______.",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

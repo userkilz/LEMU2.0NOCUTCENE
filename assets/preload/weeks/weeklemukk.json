@@ -1,0 +1,77 @@
+{
+	"songs": [
+		[
+			"bit",
+			"lemukk",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"angrybit",
+			"lemukkangry",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"crazybit",
+			"lemukkgod",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"superangry",
+			"lemukkangry",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"detected",
+			"lemukkangry",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"choro",
+			"bf",
+			[
+				86,
+				233,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lemu",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"lemukk",
+		"bf",
+		""
+	],
+	"storyName": "lemu corruption meme bug and fuck oh yer hell",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

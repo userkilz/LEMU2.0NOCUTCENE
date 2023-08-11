@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"beta",
+			"lemubeta",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"polygonized",
+			"lemu3d",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"dfast",
+			"lemusus",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"f",
+			"lemukk",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lemu",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"lemu",
+		"lemukk",
+		"stick"
+	],
+	"storyName": "more extras",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
