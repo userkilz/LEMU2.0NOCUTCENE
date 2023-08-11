@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="l.png">
+<SubTexture name="l talk0000" x="0" y="524" width="388" height="248" frameX="-33" frameY="-79" frameWidth="641" frameHeight="364" />
+<SubTexture name="l talk0001" x="694" y="253" width="306" height="207" frameX="-134" frameY="-115" frameWidth="641" frameHeight="364" />
+<SubTexture name="l talk0002" x="694" y="0" width="345" height="253" frameX="-142" frameY="-69" frameWidth="641" frameHeight="364" />
+<SubTexture name="l talk0003" x="388" y="0" width="306" height="258" frameX="-134" frameY="-64" frameWidth="641" frameHeight="364" />
+<SubTexture name="l angry0000" x="0" y="0" width="388" height="266" frameX="-134" frameY="-56" frameWidth="641" frameHeight="364" />
+<SubTexture name="l angry0001" x="388" y="524" width="387" height="159" frameX="-134" frameY="-163" frameWidth="641" frameHeight="364" />
+<SubTexture name="l angry0002" x="0" y="266" width="387" height="258" frameX="-134" frameY="-64" frameWidth="641" frameHeight="364" />
+</TextureAtlas>

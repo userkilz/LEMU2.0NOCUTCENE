@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="b.png">
+<SubTexture name="b talk0000" x="0" y="522" width="343" height="158" frameX="-155" frameY="-169" frameWidth="641" frameHeight="364" />
+<SubTexture name="b talk0001" x="0" y="264" width="387" height="258" frameX="-102" frameY="-69" frameWidth="641" frameHeight="364" />
+<SubTexture name="b talk0002" x="365" y="0" width="343" height="260" frameX="-155" frameY="-67" frameWidth="641" frameHeight="364" />
+<SubTexture name="b talk0003" x="0" y="0" width="365" height="264" frameX="-160" frameY="-68" frameWidth="641" frameHeight="364" />
+</TextureAtlas>

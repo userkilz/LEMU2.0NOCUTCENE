@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-450,
+		80
+	],
+	"scale": 1.65,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "l talk",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_name": "l angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "l"
+}

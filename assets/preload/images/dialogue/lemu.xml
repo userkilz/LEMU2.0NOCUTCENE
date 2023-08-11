@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lemu.png">
+<SubTexture name="lemu normal0000" x="0" y="0" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu normal0001" x="415" y="0" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu normal0002" x="830" y="0" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu meh0000" x="0" y="493" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu meh0001" x="415" y="493" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu meh0002" x="830" y="493" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu hurt0000" x="1245" y="0" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu hurt0001" x="1245" y="493" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu hurt0002" x="0" y="986" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu hum0000" x="415" y="986" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu hum0001" x="830" y="986" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu hum0002" x="1245" y="986" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu crazy0000" x="1660" y="0" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu crazy0001" x="1660" y="493" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu crazy0002" x="1660" y="986" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu angry0000" x="0" y="1479" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu angry0001" x="415" y="1479" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+<SubTexture name="lemu angry0002" x="830" y="1479" width="415" height="493" frameX="-85" frameY="-7" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
