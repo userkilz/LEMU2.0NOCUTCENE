@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stick.png">
+<SubTexture name="stick hey0000" x="410" y="901" width="465" height="425" frameX="-12" frameY="-145" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick hey0001" x="0" y="1327" width="449" height="415" frameX="-15" frameY="-145" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick down0000" x="1238" y="1327" width="396" height="352" frameX="-12" frameY="-217" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick down0001" x="837" y="1327" width="401" height="356" frameX="-10" frameY="-217" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick down0002" x="1991" y="0" width="398" height="351" frameX="-12" frameY="-217" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick idle0000" x="1579" y="0" width="412" height="424" frameX="0" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick idle0001" x="1579" y="848" width="377" height="412" frameX="-46" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick idle0002" x="875" y="901" width="408" height="425" frameX="-14" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick idle0003" x="0" y="901" width="410" height="426" frameX="-8" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick idle0004" x="1579" y="0" width="412" height="424" frameX="0" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick left0000" x="793" y="0" width="380" height="453" frameX="-24" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick left0001" x="403" y="0" width="390" height="454" frameX="-24" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick left0002" x="0" y="0" width="403" height="457" frameX="-22" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick right0000" x="0" y="457" width="443" height="444" frameX="-26" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick right0001" x="443" y="457" width="417" height="438" frameX="-40" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick right0002" x="1173" y="0" width="406" height="433" frameX="-44" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick up0000" x="449" y="1327" width="388" height="410" frameX="-28" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick up0001" x="1579" y="424" width="401" height="424" frameX="-15" frameY="-110" frameWidth="500" frameHeight="600" />
+<SubTexture name="stick up0002" x="1173" y="433" width="396" height="430" frameX="-20" frameY="-110" frameWidth="500" frameHeight="600" />
+</TextureAtlas>

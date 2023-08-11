@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfkk.png">
+<SubTexture name="bfkk down0000" x="460" y="1479" width="465" height="324" frameX="-370" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk down0001" x="0" y="1479" width="460" height="329" frameX="-367" frameY="-227" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk down0002" x="0" y="1135" width="461" height="344" frameX="-370" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk idle0000" x="1410" y="0" width="528" height="359" frameX="-356" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk idle0001" x="1410" y="0" width="528" height="359" frameX="-356" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk idle0002" x="461" y="1135" width="535" height="338" frameX="-356" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk idle0003" x="925" y="1479" width="543" height="320" frameX="-358" frameY="-234" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk idle0004" x="996" y="1135" width="543" height="338" frameX="-358" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk idle0005" x="1410" y="0" width="528" height="359" frameX="-356" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk left0000" x="0" y="0" width="461" height="388" frameX="-335" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk left0001" x="461" y="0" width="464" height="388" frameX="-337" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk left0002" x="925" y="375" width="476" height="373" frameX="-349" frameY="-187" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk left0003" x="1410" y="359" width="528" height="359" frameX="-356" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk right0000" x="496" y="388" width="402" height="373" frameX="-463" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk right0001" x="0" y="770" width="460" height="365" frameX="-422" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk right0002" x="1410" y="718" width="523" height="353" frameX="-386" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk right0003" x="1410" y="359" width="528" height="359" frameX="-356" frameY="-196" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk up0000" x="0" y="388" width="496" height="382" frameX="-366" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk up0001" x="925" y="0" width="485" height="375" frameX="-366" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk up0002" x="460" y="770" width="519" height="361" frameX="-364" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk up0003" x="1410" y="0" width="528" height="359" frameX="-356" frameY="-196" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

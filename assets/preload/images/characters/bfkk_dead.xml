@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfkk_dead.png">
+<SubTexture name="bfkk_dead death0000" x="523" y="0" width="669" height="415" frameX="-282" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0001" x="0" y="416" width="581" height="415" frameX="-329" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0002" x="581" y="416" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0003" x="581" y="416" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0004" x="581" y="416" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0005" x="581" y="416" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0006" x="581" y="416" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0007" x="581" y="416" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0008" x="1192" y="0" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0009" x="1192" y="415" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0010" x="0" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0011" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead death0012" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0000" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0001" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0002" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0003" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0004" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0005" x="1056" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0006" x="0" y="1246" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0007" x="528" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0008" x="1056" y="831" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0009" x="528" y="1246" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0010" x="1056" y="1246" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead ded0011" x="1720" y="0" width="528" height="415" frameX="-356" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead retry0000" x="0" y="1661" width="596" height="415" frameX="-317" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead retry0001" x="0" y="0" width="523" height="416" frameX="-357" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead retry0002" x="0" y="0" width="523" height="416" frameX="-357" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead retry0003" x="0" y="0" width="523" height="416" frameX="-357" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead retry0004" x="0" y="0" width="523" height="416" frameX="-357" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfkk_dead retry0005" x="0" y="0" width="523" height="416" frameX="-357" frameY="-139" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

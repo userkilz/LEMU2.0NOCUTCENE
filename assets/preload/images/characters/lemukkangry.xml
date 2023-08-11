@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lemukk.png">
+<SubTexture name="lemukk Idle0000" x="0" y="801" width="407" height="345" frameX="-311" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk Idle0001" x="411" y="1146" width="410" height="324" frameX="-311" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk Idle0002" x="0" y="1146" width="411" height="336" frameX="-311" frameY="-223" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk Idle0003" x="827" y="801" width="410" height="343" frameX="-311" frameY="-216" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk Idle0004" x="0" y="801" width="407" height="345" frameX="-311" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk left0000" x="407" y="801" width="420" height="345" frameX="-280" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk left0001" x="1392" y="0" width="406" height="339" frameX="-300" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk left0002" x="1392" y="0" width="406" height="339" frameX="-300" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk left0003" x="1392" y="339" width="393" height="339" frameX="-313" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk right0000" x="0" y="0" width="538" height="430" frameX="-313" frameY="-157" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk right0001" x="538" y="0" width="469" height="391" frameX="-313" frameY="-200" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk right0002" x="0" y="801" width="407" height="345" frameX="-311" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk up0000" x="0" y="430" width="383" height="371" frameX="-311" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk up0001" x="1007" y="0" width="385" height="357" frameX="-311" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk up0002" x="383" y="430" width="385" height="360" frameX="-311" frameY="-199" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk down0000" x="1207" y="1146" width="385" height="292" frameX="-310" frameY="-266" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk down0001" x="821" y="1146" width="386" height="315" frameX="-310" frameY="-246" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk down0002" x="1392" y="678" width="386" height="337" frameX="-311" frameY="-226" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk hey0000" x="1007" y="357" width="199" height="309" frameX="-461" frameY="-218" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk hey0001" x="0" y="1482" width="309" height="206" frameX="-375" frameY="-286" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemukk hey0002" x="309" y="1482" width="309" height="199" frameX="-422" frameY="-264" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

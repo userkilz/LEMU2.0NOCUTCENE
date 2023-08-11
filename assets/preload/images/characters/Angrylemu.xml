@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Angrylemu.png">
+<SubTexture name="Angrylemu down0000" x="1150" y="1686" width="478" height="330" frameX="-56" frameY="-204" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu down0001" x="0" y="1686" width="478" height="352" frameX="-57" frameY="-182" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu down0002" x="1925" y="1131" width="471" height="366" frameX="-62" frameY="-168" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu idle0000" x="487" y="1292" width="486" height="379" frameX="-60" frameY="-155" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu idle0001" x="0" y="1292" width="487" height="394" frameX="-57" frameY="-140" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu idle0002" x="486" y="0" width="487" height="419" frameX="-57" frameY="-115" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu idle0003" x="0" y="0" width="486" height="460" frameX="-61" frameY="-74" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu left0000" x="0" y="460" width="478" height="419" frameX="-30" frameY="-115" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu left0001" x="478" y="460" width="481" height="419" frameX="-35" frameY="-115" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu left0002" x="973" y="0" width="483" height="419" frameX="-38" frameY="-115" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu right0000" x="442" y="879" width="458" height="404" frameX="-112" frameY="-130" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu right0001" x="900" y="879" width="464" height="403" frameX="-93" frameY="-131" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu right0002" x="900" y="879" width="464" height="403" frameX="-93" frameY="-131" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu right0003" x="1456" y="0" width="469" height="398" frameX="-79" frameY="-136" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu up0000" x="973" y="419" width="432" height="419" frameX="-86" frameY="-115" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu up0001" x="0" y="879" width="442" height="413" frameX="-79" frameY="-121" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu up0002" x="0" y="879" width="442" height="413" frameX="-79" frameY="-121" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu up0003" x="1456" y="398" width="442" height="397" frameX="-79" frameY="-137" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0000" x="1451" y="1292" width="336" height="352" frameX="-123" frameY="-182" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0001" x="478" y="1686" width="336" height="341" frameX="-123" frameY="-193" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0002" x="814" y="1686" width="336" height="336" frameX="-123" frameY="-198" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0003" x="1456" y="795" width="338" height="355" frameX="-124" frameY="-179" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0004" x="973" y="1292" width="478" height="377" frameX="-126" frameY="-157" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0005" x="1925" y="0" width="485" height="377" frameX="-126" frameY="-157" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0006" x="1925" y="377" width="476" height="377" frameX="-126" frameY="-157" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0007" x="1925" y="754" width="469" height="377" frameX="-126" frameY="-157" frameWidth="684" frameHeight="534" />
+<SubTexture name="Angrylemu grr0008" x="1925" y="754" width="469" height="377" frameX="-126" frameY="-157" frameWidth="684" frameHeight="534" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lemuel.png">
+<SubTexture name="lemuel down0000" x="1247" y="381" width="286" height="325" frameX="-12" frameY="-124" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel down0001" x="1834" y="1098" width="282" height="332" frameX="-16" frameY="-117" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel down0002" x="1834" y="762" width="276" height="336" frameX="-22" frameY="-113" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel idle0000" x="852" y="828" width="282" height="397" frameX="-39" frameY="-52" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel idle0001" x="574" y="828" width="278" height="405" frameX="-39" frameY="-44" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel idle0002" x="291" y="828" width="283" height="411" frameX="-39" frameY="-38" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel idle0003" x="292" y="0" width="286" height="414" frameX="-38" frameY="-35" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel left0000" x="921" y="413" width="294" height="412" frameX="-11" frameY="-37" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel left0001" x="0" y="828" width="291" height="412" frameX="-17" frameY="-37" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel left0002" x="0" y="0" width="292" height="415" frameX="-24" frameY="-34" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel right0000" x="578" y="0" width="343" height="413" frameX="-2" frameY="-36" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel right0001" x="0" y="415" width="340" height="413" frameX="-2" frameY="-36" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel right0002" x="340" y="415" width="336" height="413" frameX="-6" frameY="-36" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel right0003" x="921" y="0" width="326" height="413" frameX="-4" frameY="-36" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0000" x="1247" y="0" width="291" height="381" frameX="-24" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0001" x="1247" y="0" width="291" height="381" frameX="-24" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0002" x="1247" y="0" width="291" height="381" frameX="-24" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0003" x="1538" y="0" width="296" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0004" x="1538" y="381" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0005" x="1538" y="762" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0006" x="0" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0007" x="0" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0008" x="294" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0009" x="294" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0010" x="588" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0011" x="882" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0012" x="1176" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0013" x="1834" y="0" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0014" x="1470" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0015" x="1834" y="381" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+<SubTexture name="lemuel hum0016" x="1470" y="1240" width="294" height="381" frameX="-25" frameY="-68" frameWidth="428" frameHeight="449" />
+</TextureAtlas>
