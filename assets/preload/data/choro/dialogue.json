@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "A NAO NAO TEM COMO CANTA CUM TIGO NAUM"
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "b",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fd"
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "SEU CHATO CALVO DO CARVALHO SEU CARA MOLHE seu feio e cara chato"
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "b",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOSSA"
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "b",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "<:("
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "EU VO IMBORA DA QUI "
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "l",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "SEU CHORAO vai chorar agora"
+		},
+		{
+			"sound": "bit",
+			"speed": 0.05,
+			"portrait": "b",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "<:( <:("
+		}
+	]
+}
