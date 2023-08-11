@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lemu-bad.png">
+<SubTexture name="lemu-bad idle0000" x="560" y="338" width="289" height="335" frameX="-390" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad idle0001" x="856" y="0" width="289" height="335" frameX="-380" frameY="-199" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad idle0002" x="856" y="335" width="289" height="335" frameX="-395" frameY="-199" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad idle0003" x="560" y="338" width="289" height="335" frameX="-390" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad down0000" x="1145" y="0" width="285" height="305" frameX="-375" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad down0001" x="1145" y="305" width="285" height="305" frameX="-369" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad down0002" x="1145" y="0" width="285" height="305" frameX="-380" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad left0000" x="0" y="0" width="288" height="338" frameX="-386" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad left0001" x="288" y="0" width="288" height="338" frameX="-377" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad right0000" x="0" y="674" width="292" height="334" frameX="-400" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad right0001" x="292" y="674" width="292" height="334" frameX="-407" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad right0002" x="584" y="674" width="292" height="334" frameX="-401" frameY="-190" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad up0000" x="576" y="0" width="280" height="336" frameX="-374" frameY="-186" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad up0001" x="0" y="338" width="280" height="336" frameX="-370" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu-bad up0002" x="280" y="338" width="280" height="336" frameX="-381" frameY="-185" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
