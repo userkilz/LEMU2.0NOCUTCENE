@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lemu.png">
+<SubTexture name="lemu hum0000" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0001" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0002" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0003" x="434" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0004" x="434" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0005" x="434" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0006" x="434" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0007" x="868" y="0" width="431" height="489" frameX="-466" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0008" x="0" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0009" x="436" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0010" x="436" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0011" x="1299" y="0" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0012" x="1299" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0013" x="436" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0014" x="436" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0015" x="0" y="489" width="436" height="489" frameX="-464" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0016" x="868" y="0" width="431" height="489" frameX="-466" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0017" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0018" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0019" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="lemu hum0020" x="0" y="0" width="434" height="489" frameX="-465" frameY="-159" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

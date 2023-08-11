@@ -1,0 +1,11 @@
+{
+	"idle_anim": "lemukk bit",
+	"image": "lemukk",
+	"position": [
+		537,
+		167
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "lemukk bit"
+}

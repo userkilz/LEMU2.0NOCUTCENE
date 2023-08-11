@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stick.png">
+<SubTexture name="stick idle0000" x="0" y="0" width="697" height="497" frameX="-258" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="stick idle0001" x="697" y="0" width="697" height="497" frameX="-258" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="stick idle0002" x="1394" y="468" width="687" height="453" frameX="-269" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="stick idle0003" x="1394" y="0" width="698" height="468" frameX="-264" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="stick idle0004" x="0" y="497" width="703" height="493" frameX="-258" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="stick idle0005" x="0" y="0" width="697" height="497" frameX="-258" frameY="-129" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

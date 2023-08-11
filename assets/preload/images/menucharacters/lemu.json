@@ -1,0 +1,11 @@
+{
+	"idle_anim": "lemu hum",
+	"image": "lemu",
+	"position": [
+		565,
+		218
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "lemu hum"
+}
