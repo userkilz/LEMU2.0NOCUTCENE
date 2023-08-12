@@ -81,9 +81,6 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
-			['APK Port By'],
-			['GlauberBFSoul, 'GlauberBFSoul', '.','https://youtube.com/@Glauber_BFSoulEvilYT10', 'FFFFFF'],
-			[''],
 			['Creator Mod By'],
 			['lemu, 'lemu', 'Creator Mod','https://youtube.com/@LEMU_BF_SKR', 'FFFFFF'],
 			[''],
