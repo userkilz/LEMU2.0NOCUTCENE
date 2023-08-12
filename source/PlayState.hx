@@ -2245,7 +2245,7 @@ class PlayState extends MusicBeatState
 	public function updateScore(miss:Bool = false)
 	{
 		scoreTxt.text = 'Score: ' + songScore
-		+ ' | Ported by Glauber_BFSoulEvilYTOFCBR | Misses: ' + songMisses
+		+ ' | Port by Glauber_BFSoulEvilYT10 | Misses: ' + songMisses
 		+ ' | Rating: ' + ratingName
 		+ (ratingName != '?' ? ' (${Highscore.floorDecimal(ratingPercent * 100, 2)}%) - $ratingFC' : '');
 
