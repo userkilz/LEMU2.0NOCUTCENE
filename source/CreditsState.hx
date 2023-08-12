@@ -82,10 +82,10 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
 			['Mod Port By'],
-			['Glauber_BFSoulEvilYTOFCBR, 'Glauber_BFSoulEvilYTOFCBR', 'Eu Portei Este Mod Incrivel :3','https://youtube.com/@Glauber_BFSoulEvilYTOFCBR', 'FFFFFF'],
+			['Glauber_BFSoulEvilYTOFCBR, 'Glauber_BFSoulEvilYTOFCBR', 'Eu Portei Este Mod Incrivel','https://youtube.com/@Glauber_BFSoulEvilYTOFCBR', 'FFFFFF'],
 			[''],
 			['Creator Mod By'],
-			['lemu, 'lemu', 'O Criador Do Mod :>','https://youtube.com/@LEMU_BF_SKR', 'FFFFFF'],
+			['lemu, 'lemu', 'O Criador Do Mod','https://youtube.com/@LEMU_BF_SKR', 'FFFFFF'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
